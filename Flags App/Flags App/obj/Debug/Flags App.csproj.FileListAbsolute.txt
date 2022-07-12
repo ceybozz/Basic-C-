@@ -1,0 +1,10 @@
+C:\Users\Cey Bozz\source\repos\Chapter 2\Flags App\Flags App\bin\Debug\Flags App.exe.config
+C:\Users\Cey Bozz\source\repos\Chapter 2\Flags App\Flags App\bin\Debug\Flags App.exe
+C:\Users\Cey Bozz\source\repos\Chapter 2\Flags App\Flags App\bin\Debug\Flags App.pdb
+C:\Users\Cey Bozz\source\repos\Chapter 2\Flags App\Flags App\obj\Debug\Flags App.csprojAssemblyReference.cache
+C:\Users\Cey Bozz\source\repos\Chapter 2\Flags App\Flags App\obj\Debug\Flags_App.Form1.resources
+C:\Users\Cey Bozz\source\repos\Chapter 2\Flags App\Flags App\obj\Debug\Flags_App.Properties.Resources.resources
+C:\Users\Cey Bozz\source\repos\Chapter 2\Flags App\Flags App\obj\Debug\Flags App.csproj.GenerateResource.cache
+C:\Users\Cey Bozz\source\repos\Chapter 2\Flags App\Flags App\obj\Debug\Flags App.csproj.CoreCompileInputs.cache
+C:\Users\Cey Bozz\source\repos\Chapter 2\Flags App\Flags App\obj\Debug\Flags App.exe
+C:\Users\Cey Bozz\source\repos\Chapter 2\Flags App\Flags App\obj\Debug\Flags App.pdb
