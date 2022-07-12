@@ -1,9 +1,0 @@
-C:\Users\Cey Bozz\source\repos\Chapter 2\Nostalgic Songs\Nostalgic Songs\bin\Debug\Nostalgic Songs.exe.config
-C:\Users\Cey Bozz\source\repos\Chapter 2\Nostalgic Songs\Nostalgic Songs\bin\Debug\Nostalgic Songs.exe
-C:\Users\Cey Bozz\source\repos\Chapter 2\Nostalgic Songs\Nostalgic Songs\bin\Debug\Nostalgic Songs.pdb
-C:\Users\Cey Bozz\source\repos\Chapter 2\Nostalgic Songs\Nostalgic Songs\obj\Debug\Nostalgic_Songs.Form1.resources
-C:\Users\Cey Bozz\source\repos\Chapter 2\Nostalgic Songs\Nostalgic Songs\obj\Debug\Nostalgic_Songs.Properties.Resources.resources
-C:\Users\Cey Bozz\source\repos\Chapter 2\Nostalgic Songs\Nostalgic Songs\obj\Debug\Nostalgic Songs.csproj.GenerateResource.cache
-C:\Users\Cey Bozz\source\repos\Chapter 2\Nostalgic Songs\Nostalgic Songs\obj\Debug\Nostalgic Songs.csproj.CoreCompileInputs.cache
-C:\Users\Cey Bozz\source\repos\Chapter 2\Nostalgic Songs\Nostalgic Songs\obj\Debug\Nostalgic Songs.exe
-C:\Users\Cey Bozz\source\repos\Chapter 2\Nostalgic Songs\Nostalgic Songs\obj\Debug\Nostalgic Songs.pdb
