@@ -1,0 +1,20 @@
+C:\Users\Cey Bozz\source\repos\Chapter 2\Books and Authors App\Books and Authors App\bin\Debug\Books and Authors App.exe.config
+C:\Users\Cey Bozz\source\repos\Chapter 2\Books and Authors App\Books and Authors App\bin\Debug\Books and Authors App.exe
+C:\Users\Cey Bozz\source\repos\Chapter 2\Books and Authors App\Books and Authors App\bin\Debug\Books and Authors App.pdb
+C:\Users\Cey Bozz\source\repos\Chapter 2\Books and Authors App\Books and Authors App\obj\Debug\Books and Authors App.csprojAssemblyReference.cache
+C:\Users\Cey Bozz\source\repos\Chapter 2\Books and Authors App\Books and Authors App\obj\Debug\Books_and_Authors_App.Form1.resources
+C:\Users\Cey Bozz\source\repos\Chapter 2\Books and Authors App\Books and Authors App\obj\Debug\Books_and_Authors_App.Properties.Resources.resources
+C:\Users\Cey Bozz\source\repos\Chapter 2\Books and Authors App\Books and Authors App\obj\Debug\Books and Authors App.csproj.GenerateResource.cache
+C:\Users\Cey Bozz\source\repos\Chapter 2\Books and Authors App\Books and Authors App\obj\Debug\Books and Authors App.csproj.CoreCompileInputs.cache
+C:\Users\Cey Bozz\source\repos\Chapter 2\Books and Authors App\Books and Authors App\obj\Debug\Books and Authors App.exe
+C:\Users\Cey Bozz\source\repos\Chapter 2\Books and Authors App\Books and Authors App\obj\Debug\Books and Authors App.pdb
+C:\Users\Cey Bozz\OneDrive\School\MI1001 Basic Programing C#\Chapter 2\Books and Authors App\Books and Authors App\bin\Debug\Books and Authors App.exe.config
+C:\Users\Cey Bozz\OneDrive\School\MI1001 Basic Programing C#\Chapter 2\Books and Authors App\Books and Authors App\bin\Debug\Books and Authors App.exe
+C:\Users\Cey Bozz\OneDrive\School\MI1001 Basic Programing C#\Chapter 2\Books and Authors App\Books and Authors App\bin\Debug\Books and Authors App.pdb
+C:\Users\Cey Bozz\OneDrive\School\MI1001 Basic Programing C#\Chapter 2\Books and Authors App\Books and Authors App\obj\Debug\Books and Authors App.csprojAssemblyReference.cache
+C:\Users\Cey Bozz\OneDrive\School\MI1001 Basic Programing C#\Chapter 2\Books and Authors App\Books and Authors App\obj\Debug\Books_and_Authors_App.Form1.resources
+C:\Users\Cey Bozz\OneDrive\School\MI1001 Basic Programing C#\Chapter 2\Books and Authors App\Books and Authors App\obj\Debug\Books_and_Authors_App.Properties.Resources.resources
+C:\Users\Cey Bozz\OneDrive\School\MI1001 Basic Programing C#\Chapter 2\Books and Authors App\Books and Authors App\obj\Debug\Books and Authors App.csproj.GenerateResource.cache
+C:\Users\Cey Bozz\OneDrive\School\MI1001 Basic Programing C#\Chapter 2\Books and Authors App\Books and Authors App\obj\Debug\Books and Authors App.csproj.CoreCompileInputs.cache
+C:\Users\Cey Bozz\OneDrive\School\MI1001 Basic Programing C#\Chapter 2\Books and Authors App\Books and Authors App\obj\Debug\Books and Authors App.exe
+C:\Users\Cey Bozz\OneDrive\School\MI1001 Basic Programing C#\Chapter 2\Books and Authors App\Books and Authors App\obj\Debug\Books and Authors App.pdb
