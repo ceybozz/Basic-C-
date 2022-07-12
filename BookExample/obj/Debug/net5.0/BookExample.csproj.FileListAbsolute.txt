@@ -1,0 +1,5 @@
+D:\School\Basic Programing C#\BookExample\obj\Debug\net5.0\BookExample.csproj.AssemblyReference.cache
+D:\School\Basic Programing C#\BookExample\obj\Debug\net5.0\BookExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Basic Programing C#\BookExample\obj\Debug\net5.0\BookExample.AssemblyInfoInputs.cache
+D:\School\Basic Programing C#\BookExample\obj\Debug\net5.0\BookExample.AssemblyInfo.cs
+D:\School\Basic Programing C#\BookExample\obj\Debug\net5.0\BookExample.csproj.CoreCompileInputs.cache
