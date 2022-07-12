@@ -1,0 +1,9 @@
+C:\Users\Cey Bozz\source\repos\Chapter 2\Heads or Tails App\Heads or Tails App\bin\Debug\Heads or Tails App.exe.config
+C:\Users\Cey Bozz\source\repos\Chapter 2\Heads or Tails App\Heads or Tails App\bin\Debug\Heads or Tails App.exe
+C:\Users\Cey Bozz\source\repos\Chapter 2\Heads or Tails App\Heads or Tails App\bin\Debug\Heads or Tails App.pdb
+C:\Users\Cey Bozz\source\repos\Chapter 2\Heads or Tails App\Heads or Tails App\obj\Debug\Heads_or_Tails_App.Form1.resources
+C:\Users\Cey Bozz\source\repos\Chapter 2\Heads or Tails App\Heads or Tails App\obj\Debug\Heads_or_Tails_App.Properties.Resources.resources
+C:\Users\Cey Bozz\source\repos\Chapter 2\Heads or Tails App\Heads or Tails App\obj\Debug\Heads or Tails App.csproj.GenerateResource.cache
+C:\Users\Cey Bozz\source\repos\Chapter 2\Heads or Tails App\Heads or Tails App\obj\Debug\Heads or Tails App.csproj.CoreCompileInputs.cache
+C:\Users\Cey Bozz\source\repos\Chapter 2\Heads or Tails App\Heads or Tails App\obj\Debug\Heads or Tails App.exe
+C:\Users\Cey Bozz\source\repos\Chapter 2\Heads or Tails App\Heads or Tails App\obj\Debug\Heads or Tails App.pdb
