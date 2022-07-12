@@ -1,9 +1,0 @@
-C:\Users\Cey Bozz\source\repos\Chapter 2\Orion Constellation App\Orion Constellation App\bin\Debug\Orion Constellation App.exe.config
-C:\Users\Cey Bozz\source\repos\Chapter 2\Orion Constellation App\Orion Constellation App\bin\Debug\Orion Constellation App.exe
-C:\Users\Cey Bozz\source\repos\Chapter 2\Orion Constellation App\Orion Constellation App\bin\Debug\Orion Constellation App.pdb
-C:\Users\Cey Bozz\source\repos\Chapter 2\Orion Constellation App\Orion Constellation App\obj\Debug\Orion_Constellation_App.Form1.resources
-C:\Users\Cey Bozz\source\repos\Chapter 2\Orion Constellation App\Orion Constellation App\obj\Debug\Orion_Constellation_App.Properties.Resources.resources
-C:\Users\Cey Bozz\source\repos\Chapter 2\Orion Constellation App\Orion Constellation App\obj\Debug\Orion Constellation App.csproj.GenerateResource.cache
-C:\Users\Cey Bozz\source\repos\Chapter 2\Orion Constellation App\Orion Constellation App\obj\Debug\Orion Constellation App.csproj.CoreCompileInputs.cache
-C:\Users\Cey Bozz\source\repos\Chapter 2\Orion Constellation App\Orion Constellation App\obj\Debug\Orion Constellation App.exe
-C:\Users\Cey Bozz\source\repos\Chapter 2\Orion Constellation App\Orion Constellation App\obj\Debug\Orion Constellation App.pdb
