@@ -1,0 +1,10 @@
+C:\Users\Cey Bozz\source\repos\Chapter 2\Numbers Images App\Numbers Images App\obj\Debug\Numbers Images App.csprojAssemblyReference.cache
+C:\Users\Cey Bozz\source\repos\Chapter 2\Numbers Images App\Numbers Images App\obj\Debug\Numbers_Images_App.Form1.resources
+C:\Users\Cey Bozz\source\repos\Chapter 2\Numbers Images App\Numbers Images App\obj\Debug\Numbers_Images_App.Properties.Resources.resources
+C:\Users\Cey Bozz\source\repos\Chapter 2\Numbers Images App\Numbers Images App\obj\Debug\Numbers Images App.csproj.GenerateResource.cache
+C:\Users\Cey Bozz\source\repos\Chapter 2\Numbers Images App\Numbers Images App\obj\Debug\Numbers Images App.csproj.CoreCompileInputs.cache
+C:\Users\Cey Bozz\source\repos\Chapter 2\Numbers Images App\Numbers Images App\bin\Debug\Numbers Images App.exe.config
+C:\Users\Cey Bozz\source\repos\Chapter 2\Numbers Images App\Numbers Images App\bin\Debug\Numbers Images App.exe
+C:\Users\Cey Bozz\source\repos\Chapter 2\Numbers Images App\Numbers Images App\bin\Debug\Numbers Images App.pdb
+C:\Users\Cey Bozz\source\repos\Chapter 2\Numbers Images App\Numbers Images App\obj\Debug\Numbers Images App.exe
+C:\Users\Cey Bozz\source\repos\Chapter 2\Numbers Images App\Numbers Images App\obj\Debug\Numbers Images App.pdb
